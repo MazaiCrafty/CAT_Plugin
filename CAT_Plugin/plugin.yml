@@ -1,0 +1,14 @@
+name: CAT_v1.0.0
+main: MazaiCrafty\MainClass
+version: 1.0
+api:
+- 3.0.0-ALPHA6
+- 3.0.0
+author: MazaiCrafty
+load: POSTWORLD
+
+commands:
+ report:
+  description: "Your report send report.yml"
+ report.list:
+  description: "All reort list display your chat"
